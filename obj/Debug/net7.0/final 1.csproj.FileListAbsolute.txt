@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Desktop\GB\final 1\bin\Debug\net7.0\final 1.exe
+C:\Users\maria\OneDrive\Desktop\GB\final 1\bin\Debug\net7.0\final 1.deps.json
+C:\Users\maria\OneDrive\Desktop\GB\final 1\bin\Debug\net7.0\final 1.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\GB\final 1\bin\Debug\net7.0\final 1.dll
+C:\Users\maria\OneDrive\Desktop\GB\final 1\bin\Debug\net7.0\final 1.pdb
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.dll
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\refint\final 1.dll
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.pdb
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\final 1.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\GB\final 1\obj\Debug\net7.0\ref\final 1.dll
